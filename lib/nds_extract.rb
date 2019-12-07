@@ -53,9 +53,7 @@ def total_gross(source)
     total += new_hash[arr_name[i]]
     i += 1
   end
-  pp arr_name
-  pp new_hash
-  pp total
+  total
 end
 
 
